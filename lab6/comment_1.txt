@@ -1,0 +1,2 @@
+Post ID: 1
+Text: Nice post!
